@@ -9,4 +9,4 @@ Este proyecho es una practica para aprender a usar github.
 - JavaScript
 
 # Autor 
-Manuel Zazueta 
+Anthony Eulises Benitez Medina 
