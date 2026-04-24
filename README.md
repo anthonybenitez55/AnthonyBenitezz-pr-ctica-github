@@ -1,2 +1,12 @@
-# AnthonyBenitezz-pr-ctica-github
-Práctica día 24 de abril 
+# Proyecto Practica Github
+
+## Descripcion
+Este proyecho es una practica para aprender a usar github.
+
+### Tecnologias 
+- HTML
+- CSS
+- JavaScript
+
+# Autor 
+Manuel Zazueta 
